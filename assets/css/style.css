@@ -2,6 +2,6 @@ body {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYx_9WySPsjCnH3Ezvzj2bAdp4C0Z8TrW2tlFsWQPIUv-OiWk");
 
 }
-#headers{
+.headers{
     color: green;
 }
